@@ -1,0 +1,8 @@
+aipoconfig:
+   aipo_id: n9999
+   aipo_pw: hogehoge
+
+gcalconfig:
+   google_id: hogehgoe@gmail.com
+   google_pw: hogehoge
+   google_calendar_name: AIPO
