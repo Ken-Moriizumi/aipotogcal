@@ -101,7 +101,7 @@ private
 
     def conditions
         {
-            'start-min' => Date.today,
+            'start-min' => Date.today - 7,
             'start-max' => Date.today + 31,
             'max-results' => 100
         }
