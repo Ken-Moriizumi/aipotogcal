@@ -1,0 +1,5 @@
+== Aipo→googleカレンダースケジュール反映ツール 
+
+* AtoGconfig.yamlを設定して実行
+
+詳細は小林まで。
