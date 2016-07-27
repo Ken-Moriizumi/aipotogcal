@@ -1,5 +1,5 @@
-== Aipo��google�J�����_�[�X�P�W���[�����f�c�[�� 
+== Aipo→googleカレンダースケジュール反映ツール 
 
-* AtoGconfig.yaml��ݒ肵�Ď��s
+* AtoGconfig.yamlを設定して実行
 
-�ڍׂ͏��т܂ŁB
+
